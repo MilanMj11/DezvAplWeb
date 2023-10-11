@@ -1,8 +1,6 @@
 ﻿using System.Collections.Specialized;
 using TemaLab1;
 
-Console.WriteLine("Hello, World!");
-
 
 var materie1 = new Materie("Algebra", "2 ore", 35);
 var materie2 = new Materie("Probabilitati", "3 ore", 40);
@@ -25,5 +23,5 @@ List<Student> studenti = new List<Student> { student1, student2, student3, stude
 
 for(int i = 0; i < 4; i++)
 {
-    Console.WriteLine(studenti[i]);
+    Console.WriteLine($"Studentul nr.{i+1} : " + studenti[i]);
 }

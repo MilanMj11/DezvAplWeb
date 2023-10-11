@@ -13,7 +13,7 @@ namespace TemaLab1
         public string prenume;
         public int varsta;
         public int grupa;
-        public double nota;
+        public double medie;
 
         public List<Materie> materii;
 
@@ -24,16 +24,16 @@ namespace TemaLab1
             {
                 Afis_materii = Afis_materii + mat.ToString() + "\n";
             }
-            return $"Nume: {nume}, Prenume: {prenume}, Varsta: {varsta}, Grupa: {grupa}, Nota: {nota}\n" +
+            return $"Nume: {nume}, Prenume: {prenume}, Varsta: {varsta}, Grupa: {grupa}, Medie: {medie}\n" +
                    $"Materii: \n{Afis_materii}";
         }
-        public Student(string nume, string prenume, int varsta, int grupa, double nota, List<Materie> materii)
+        public Student(string nume, string prenume, int varsta, int grupa, double medie, List<Materie> materii)
         {
             this.nume = nume;
             this.prenume = prenume;
             this.varsta = varsta;
             this.grupa = grupa;
-            this.nota = nota;
+            this.medie = medie;
             this.materii = materii;
         }
     }
