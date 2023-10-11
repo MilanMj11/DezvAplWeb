@@ -1,0 +1,15 @@
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\bin\Debug\net6.0\TemaLab1.exe
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\bin\Debug\net6.0\TemaLab1.deps.json
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\bin\Debug\net6.0\TemaLab1.runtimeconfig.json
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\bin\Debug\net6.0\TemaLab1.dll
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\bin\Debug\net6.0\TemaLab1.pdb
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.AssemblyInfo.cs
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.dll
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\refint\TemaLab1.dll
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.pdb
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\TemaLab1.genruntimeconfig.cache
+C:\Users\Milan\source\repos\MilanMj11\DezvAplWeb\TemaLab1\TemaLab1\obj\Debug\net6.0\ref\TemaLab1.dll
